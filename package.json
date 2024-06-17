@@ -26,7 +26,7 @@
     "js-yaml": "^3.14.1",
     "jwt-decode": "^3.1.1",
     "markdown-table": "^2.0.0",
-    "zip-a-folder": "^0.0.12"
+    "zip-a-folder": "^3.1.7"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.25.1",
