@@ -20,13 +20,13 @@
   "homepage": "https://github.com/prisma-cloud-shiftleft/iac-scan-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^6.0.0",
     "@actions/http-client": "^1.0.9",
     "csv-writer": "^1.6.0",
     "js-yaml": "^3.14.1",
     "jwt-decode": "^3.1.1",
     "markdown-table": "^2.0.0",
-    "zip-a-folder": "^0.0.12"
+    "zip-a-folder": "^1.1.4"
   },
   "devDependencies": {
     "@vercel/ncc": "^0.25.1",
